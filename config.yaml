@@ -1,0 +1,12 @@
+credentials:
+  usernames:
+    admin:
+      email: admin@gmail.com
+      name: Admin
+      password: "123" # Dans la vraie vie, il faudrait le hacher, mais pour tester c'est ok
+cookie:
+  expiry_days: 30
+  key: random_signature_key
+  name: interview_coach_cookie
+preauthorized:
+  emails: []
