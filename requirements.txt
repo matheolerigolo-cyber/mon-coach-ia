@@ -1,5 +1,8 @@
 streamlit
+streamlit-authenticator
 langchain-openai
-langchain
+langchain-community
+langchain-core
 pypdf2
+pyyaml
 python-dotenv
